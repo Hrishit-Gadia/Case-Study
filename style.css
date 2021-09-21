@@ -1,0 +1,22 @@
+Body{
+    background-image: url('Background.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    text-align: center;
+}
+
+#Logo {
+    background-image: url('Black-Stroke.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200px;
+    color : orange;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+#Pics {
+    border: orange solid ;
+}
